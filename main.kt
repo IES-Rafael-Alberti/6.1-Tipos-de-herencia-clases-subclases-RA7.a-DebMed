@@ -57,5 +57,5 @@ fun main() {
 c) La herencia que he empleado es en el primer tipo de especialización y en el segundo de extensión.
 d) la superclase del primer tipo es ElementoBase y las subclases ElementoPopular y restoDeElementos, en el segundo tipo es Estrella la superclase y EnanaRoja y EnanaBlanca las subclases
 e) se puede implementar con Interfaces
-f) La implementacion con herencia te permite añadir variable, y esto no es posible hacerlo con interfaces lo que amplia las posibilidades
+f) La implementación con herencia te permite añadir variable, y esto no es posible hacerlo con interfaces lo que amplia las posibilidades
  */
